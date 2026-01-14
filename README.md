@@ -25,7 +25,15 @@ Node-Base-Pipeline-Editor is a full-stack application that allows users to build
 
 ## 📸 Screenshots
 
-_Coming soon - Screenshots of the application will be added here to showcase the visual pipeline editor interface._
+Pipeline Editor Interface - 
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/28b6a8f5-4657-4284-9114-ba26192243be" />
+
+Submission for the submit pipeline -
+# UI -
+<img width="1916" height="931" alt="image" src="https://github.com/user-attachments/assets/ad296b58-a1e8-4dd7-a704-8a9216f030c3" />
+# Api -
+<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/7bd4da3a-a0cf-469c-9cb4-024f0585e062" />
+
 
 
 ## 🛠️ Tech Stack
