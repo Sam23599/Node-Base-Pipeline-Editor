@@ -25,16 +25,23 @@ Node-Base-Pipeline-Editor is a full-stack application that allows users to build
 
 ## 📸 Screenshots
 
-## Pipeline Editor Interface - 
+### Pipeline Editor Interface
 
-<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/28b6a8f5-4657-4284-9114-ba26192243be" />
+The main interface showing the node palette and canvas for building pipelines.
 
-## Submission for the submit pipeline -
-- UI
-<img width="1916" height="931" alt="image" src="https://github.com/user-attachments/assets/ad296b58-a1e8-4dd7-a704-8a9216f030c3" />
+<img width="1919" height="923" alt="Pipeline Editor Interface" src="https://github.com/user-attachments/assets/28b6a8f5-4657-4284-9114-ba26192243be" />
 
-- Api
-<img width="1908" height="878" alt="image" src="https://github.com/user-attachments/assets/7bd4da3a-a0cf-469c-9cb4-024f0585e062" />
+### Pipeline Submission
+
+#### UI Response
+The frontend displaying the validation results after submitting a pipeline.
+
+<img width="1916" height="931" alt="Pipeline Submission UI Response" src="https://github.com/user-attachments/assets/ad296b58-a1e8-4dd7-a704-8a9216f030c3" />
+
+#### API Response
+The backend API response showing pipeline validation metrics.
+
+<img width="1908" height="878" alt="Pipeline Submission API Response" src="https://github.com/user-attachments/assets/7bd4da3a-a0cf-469c-9cb4-024f0585e062" />
 
 
 
